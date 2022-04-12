@@ -1,1 +1,2 @@
 testing
+a test for new command for vscode
